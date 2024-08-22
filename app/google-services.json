@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098735987496",
+    "project_id": "mightworthit",
+    "storage_bucket": "mightworthit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098735987496:android:d103addbc92bf323e87e1d",
+        "android_client_info": {
+          "package_name": "com.example.mightworthit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALo_pJzhRt_HtVeyt0NbGkdRgeAXrBLVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
